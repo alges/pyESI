@@ -1,0 +1,24 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
+
+[metadata]
+name = "pyESI"
+version = "0.0.1"
+url = "https://github.com/alges/pyESI"
+author = "ALGES Lab"
+author_email = "contacto@alges.cl"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+description = "Ensemble Spatial Interpolation module for Python"
+long_description = "file: README.md"
+long_description_content_type = "text/markdown"
+
+[options]
+python_requires = ">=3.6"
