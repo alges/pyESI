@@ -29,12 +29,13 @@ pip install pyESI
 # Acknowledge
 Please cite the following paper when publishing work relating this code:
 
-    @inproceedings{egana2021,
-      Author = {},
-      Title = {},
-      Booktitle = {},
-      Series = {},
-      Year = {2021},
-      doi = {},
-      pages = {1--12}
+    @article{egana2021ensemble,
+      title={Ensemble Spatial Interpolation: A New Approach to Natural or Anthropogenic Variable Assessment},
+      author={Egana, Alvaro and Navarro, Felipe and Maleki, Mohammad and Grandon, Francisca and Carter, Francisco and Soto, Fabi{\'a}n},
+      journal={Natural Resources Research},
+      volume={30},
+      number={5},
+      pages={3777--3793},
+      year={2021},
+      publisher={Springer}
     }
